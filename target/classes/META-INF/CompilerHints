@@ -1,0 +1,3 @@
+dontinline,hdfc/generated/MyBenchmark.*
+inline,hdfc/MyBenchmark.testMethod
+inline,hdfc/MyBenchmark.testMethod
